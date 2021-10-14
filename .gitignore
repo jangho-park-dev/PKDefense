@@ -58,7 +58,7 @@ Plugins/*/Binaries/*
 Build/*
 
 # Asset Files
-Content/SuperGrid/*
+
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
